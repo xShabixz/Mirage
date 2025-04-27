@@ -18,4 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=xShabixz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31oeiejymidyauyq7vmzxyilp5dm)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xShabixz/xShabixz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xShabixz/xShabixz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xShabixz/xShabixz/output/github-snake.svg" />
+</picture>
+
